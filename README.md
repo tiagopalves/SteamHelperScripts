@@ -7,6 +7,8 @@ Coleção de scripts Tampermonkey para melhorar a usabilidade do Steam e aumenta
 ## 📋 Índice
 
 - [Scripts Disponíveis](#scripts-disponíveis)
+  - [Steam - Market Auto Order and Register Key](./scripts/SteamMarketAutoOrderAndRegisterKey.js)
+  - [Steam - Pesquisa para Troca](./scripts/SteamPesquisaParaTroca.js)
 - [Instalação](#instalação)
 - [Guia de Uso](#guia-de-uso)
 - [Recursos](#recursos)
@@ -17,7 +19,7 @@ Coleção de scripts Tampermonkey para melhorar a usabilidade do Steam e aumenta
 ## 📦 Scripts Disponíveis
 
 ### 1. **Steam - Market Auto Order and Register Key** ⚡
-**Versão:** 4.2.1 | **Arquivo:** `SteamMarketAutoOrderAndRegisterKey.js`
+**Versão:** 4.2.1 | **Arquivo:** [SteamMarketAutoOrderAndRegisterKey.js](./scripts/SteamMarketAutoOrderAndRegisterKey.js)
 
 Automatiza o processo de compra no marketplace do Steam e registro de product keys.
 
@@ -38,7 +40,7 @@ Automatiza o processo de compra no marketplace do Steam e registro de product ke
 ---
 
 ### 2. **Steam - Pesquisa para Troca** 🔍
-**Versão:** 2.0 | **Arquivo:** `SteamPesquisaParaTroca.js`
+**Versão:** 2.0 | **Arquivo:** [SteamPesquisaParaTroca.js](./scripts/SteamPesquisaParaTroca.js)
 
 Pesquisa uma lista de jogos na sua biblioteca Steam e identifica quais você já possui e quais faltam.
 
