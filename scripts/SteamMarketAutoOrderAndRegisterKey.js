@@ -1,14 +1,21 @@
 // ==UserScript==
 // @name         Steam - Market Auto Order and Register Key
-// @namespace    https://steamcommunity.com
+// @namespace    https://github.com/tiagopalves/SteamHelperScripts
 // @version      4.2.1
 // @description  Compra assistida Steam - Modal compacto funcional e Registro de keys automático
+// @author       Tiago P. Alves
+// @homepage     https://github.com/tiagopalves/SteamHelperScripts
+// @homepageURL  https://github.com/tiagopalves/SteamHelperScripts
+// @supportURL   https://github.com/tiagopalves/SteamHelperScripts/issues
+// @updateURL    https://raw.githubusercontent.com/tiagopalves/SteamHelperScripts/main/scripts/SteamMarketAutoOrderAndRegisterKey.js
+// @downloadURL  https://raw.githubusercontent.com/tiagopalves/SteamHelperScripts/main/scripts/SteamMarketAutoOrderAndRegisterKey.js
 // @match        https://steamcommunity.com/market/listings/*
 // @match        https://steamcommunity.com/id/*/gamecards/*
 // @match        https://steamcommunity.com/profiles/*/gamecards/*
 // @match        https://store.steampowered.com/account/registerkey*
 // @icon         https://img.icons8.com/?size=48&id=13650&format=png
 // @grant        none
+// @run-at       document-end
 // ==/UserScript==
 
 (function () {
