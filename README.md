@@ -71,16 +71,12 @@ Pesquisa uma lista de jogos na sua biblioteca Steam e identifica quais você já
    - Clique no ícone da extensão Tampermonkey na barra de ferramentas
    - Selecione **"Criar um novo script"**
 
-   ![Abrir Tampermonkey](https://img.shields.io/badge/Passo-1-blue?style=flat-square)
-
 #### 2. **Copiar o Código do Script**
    - Acesse o script desejado neste repositório:
      - [SteamMarketAutoOrderAndRegisterKey.js](./scripts/SteamMarketAutoOrderAndRegisterKey.js)
      - [SteamPesquisaParaTroca.js](./scripts/SteamPesquisaParaTroca.js)
    - Clique em **"Raw"** ou **"Copy Raw"** para copiar o código completo
    - Ou copie o código direto do arquivo
-
-   ![Copiar código](https://img.shields.io/badge/Passo-2-blue?style=flat-square)
 
 #### 3. **Colar no Tampermonkey**
    - Na aba do Tampermonkey, **limpe o código padrão** que aparece
@@ -95,20 +91,14 @@ Pesquisa uma lista de jogos na sua biblioteca Steam e identifica quais você já
    // Resto do código aqui
    ```
 
-   ![Colar código](https://img.shields.io/badge/Passo-3-blue?style=flat-square)
-
 #### 4. **Salvar o Script**
    - Pressione **Ctrl + S** (ou Cmd + S no Mac)
    - Ou clique em **File** → **Save**
    - Você verá uma mensagem de confirmação
 
-   ![Salvar](https://img.shields.io/badge/Passo-4-blue?style=flat-square)
-
 #### 5. **Verificar Instalação**
    - Você verá o script listado em **"Meus Scripts"** no Tampermonkey
    - O ícone ao lado indicará se está ✅ **ativo**
-
-   ![Verificação](https://img.shields.io/badge/Passo-5-blue?style=flat-square)
 
 ---
 
