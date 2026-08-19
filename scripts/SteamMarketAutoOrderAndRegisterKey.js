@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Steam - Market Auto Order and Register Key
 // @namespace    https://github.com/tiagopalves/SteamHelperScripts
-// @version      4.2.1
+// @version      4.2.2
 // @description  Compra assistida Steam - Modal compacto funcional e Registro de keys automático
 // @author       Tiago P. Alves
 // @homepage     https://github.com/tiagopalves/SteamHelperScripts
@@ -492,6 +492,6 @@
     Observers.watchModalChanges();
     RegisterKey.init();
 
-    console.log('[Steam Auto v4.2.1] Carregado:', location.href, PAGE);
+    console.log('[Steam Auto v4.2.2] Carregado:', location.href, PAGE);
 
 })();
