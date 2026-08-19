@@ -1,6 +1,8 @@
-# SteamHelperScripts 🎮
+# Steam Helper Scripts 🎮
 
 Coleção de scripts Tampermonkey para melhorar a usabilidade do Steam e aumentar a velocidade de trocas, vendas e outras atividades no marketplace.
+
+Criado por: Tiago P. Alves
 
 ---
 
@@ -153,7 +155,7 @@ Pesquisa uma lista de jogos na sua biblioteca Steam e identifica quais você já
 
 ---
 
-## Recursos Técnicos
+## ⚙️ Recursos Técnicos
 
 - **Linguagem**: JavaScript Vanilla
 - **Compatibilidade**: Todos os navegadores com Tampermonkey
