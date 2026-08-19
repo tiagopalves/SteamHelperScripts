@@ -1,9 +1,14 @@
 // ==UserScript==
 // @name         Steam - Pesquisa para Troca
-// @namespace    https://steamcommunity.com/
+// @namespace    https://github.com/tiagopalves/SteamHelperScripts
 // @version      2.0
 // @description  Cole uma lista de jogos e o script pesquisa cada um, um por um, no campo de busca da sua biblioteca Steam, retornando os que faltam.
-// @author       you
+// @author       Tiago P. Alves
+// @homepage     https://github.com/tiagopalves/SteamHelperScripts
+// @homepageURL  https://github.com/tiagopalves/SteamHelperScripts
+// @supportURL   https://github.com/tiagopalves/SteamHelperScripts/issues
+// @updateURL    https://raw.githubusercontent.com/tiagopalves/SteamHelperScripts/main/scripts/SteamPesquisaParaTroca.js
+// @downloadURL  https://raw.githubusercontent.com/tiagopalves/SteamHelperScripts/main/scripts/SteamPesquisaParaTroca.js
 // @match        https://steamcommunity.com/id/*/games/*
 // @match        https://steamcommunity.com/profiles/*/games/*
 // @icon         https://img.icons8.com/?size=48&id=13650&format=png
