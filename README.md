@@ -21,7 +21,7 @@ Criado por: Tiago P. Alves
 ## 📦 Scripts Disponíveis
 
 ### 1. **Steam - Market Auto Order and Register Key** ⚡
-**Versão:** 4.2.1 | **Arquivo:** [SteamMarketAutoOrderAndRegisterKey.js](./scripts/SteamMarketAutoOrderAndRegisterKey.js)
+**Versão:** 4.2.2 | **Arquivo:** [SteamMarketAutoOrderAndRegisterKey.js](./scripts/SteamMarketAutoOrderAndRegisterKey.js)
 
 Automatiza o processo de compra no marketplace do Steam e registro de product keys.
 
@@ -42,7 +42,7 @@ Automatiza o processo de compra no marketplace do Steam e registro de product ke
 ---
 
 ### 2. **Steam - Pesquisa para Troca** 🔍
-**Versão:** 2.0 | **Arquivo:** [SteamPesquisaParaTroca.js](./scripts/SteamPesquisaParaTroca.js)
+**Versão:** 2.0.1 | **Arquivo:** [SteamPesquisaParaTroca.js](./scripts/SteamPesquisaParaTroca.js)
 
 Pesquisa uma lista de jogos na sua biblioteca Steam e identifica quais você já possui e quais faltam.
 
