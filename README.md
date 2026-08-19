@@ -6,13 +6,13 @@ Coleção de scripts Tampermonkey para melhorar a usabilidade do Steam e aumenta
 
 ## 📋 Índice
 
-- [Scripts Disponíveis](#scripts-disponíveis)
-  - [Steam - Market Auto Order and Register Key](./scripts/SteamMarketAutoOrderAndRegisterKey.js)
-  - [Steam - Pesquisa para Troca](./scripts/SteamPesquisaParaTroca.js)
-- [Instalação](#instalação)
-- [Guia de Uso](#guia-de-uso)
-- [Recursos](#recursos)
-- [Licença](#licença)
+- [Scripts Disponíveis](https://github.com/tiagopalves/SteamHelperScripts/blob/main/README.md#-scripts-dispon%C3%ADveis)
+- [Instalação](https://github.com/tiagopalves/SteamHelperScripts/blob/main/README.md#-instala%C3%A7%C3%A3o)
+- [Guia de Uso](https://github.com/tiagopalves/SteamHelperScripts/blob/main/README.md#-guia-de-uso)
+- [Troubleshooting](https://github.com/tiagopalves/SteamHelperScripts/blob/main/README.md#-troubleshooting)
+- [Recursos Técnicos](https://github.com/tiagopalves/SteamHelperScripts/blob/main/README.md#%EF%B8%8F-recursos-t%C3%A9cnicos)
+- [Licença](https://github.com/tiagopalves/SteamHelperScripts/blob/main/README.md#-licen%C3%A7a)
+- [Contato](https://github.com/tiagopalves/SteamHelperScripts/blob/main/README.md#-contato)
 
 ---
 
@@ -109,7 +109,7 @@ Pesquisa uma lista de jogos na sua biblioteca Steam e identifica quais você já
 ### Script 1: Auto Order and Register Key
 
 #### **Para Auto Buy (Compra Automática)**
-1. Abra uma página de listing do marketplace: `https://steamcommunity.com/market/listings/...`
+1. Abra uma página de listing do marketplace: `https://steamcommunity.com/market/listings...`
 2. Adicione `?autobuy=1` na URL
    - Exemplo: `https://steamcommunity.com/market/listings/753/123456-Item Name?autobuy=1`
 3. A página carregará, o diálogo de compra abrirá automaticamente
@@ -153,7 +153,7 @@ Pesquisa uma lista de jogos na sua biblioteca Steam e identifica quais você já
 
 ---
 
-## ⚙️ Recursos Técnicos
+## Recursos Técnicos
 
 - **Linguagem**: JavaScript Vanilla
 - **Compatibilidade**: Todos os navegadores com Tampermonkey
